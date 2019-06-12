@@ -1,4 +1,4 @@
-# Exchange-app-w-Calculator-ES6-fetch-promise-excersice-
+# Exchange-app-w-Calculator-ES6-fetch-promise-excersice
 
 It contains a practice to use ES6 features which are "fetch and promise" with API.
 
