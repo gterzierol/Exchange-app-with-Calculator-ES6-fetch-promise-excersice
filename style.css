@@ -1,0 +1,158 @@
+
+.container{
+    /* background: rgb(222, 250, 144); */
+    width: 85%;
+    margin: auto;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+
+#box{
+    background: rgb(143, 169, 255);
+    margin: auto;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 3px;
+}
+.form-group{
+
+    margin: auto;
+    
+}
+
+
+
+
+/* ------------- Hesap Makinesi --------------*/
+.Container {
+    background: #7a7a7a77;
+    height: 480px;
+    width: 360px;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 25px;
+    /* border: solid black 2px;
+    box-shadow: 0px 5px 15px 5px #4b4b4b; */
+    text-align: center;
+}
+#screen {
+    width: 300px;
+    height: 100px;
+    margin: 15px auto;
+    border-radius: 15px;
+    line-height: 100px;
+    /* box-shadow: inset -1px -1px 5px white, inset -1px 1px 5px black; */
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    background: #52525277;
+}
+
+.buttondivs {
+
+    width: 300px;
+    margin: 2px auto;
+    text-align: center;
+}
+
+.buttoninputon {
+    display: block;
+    background: rgb(80, 80, 80);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    float: left;
+    width: 140px;
+    height: 15px;
+    margin: 5px;
+    /* border: solid 2px, black; */
+    border-radius: 5px;
+    text-align: center;
+    line-height: 10px;
+    font-size: 10px;
+    /* background: rgb(80, 80, 80); */
+    /* box-shadow: inset 0px 10px 20px -4px rgba(0,0,0,0.58); */
+    /* box-shadow: inset -1px -1px 5px black, inset -1px 1px 5px white; */
+
+}
+
+.buttoninput {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    float: left;
+    width: 65px;
+    height: 50px;
+    margin: 5px;
+    text-align: center;
+    /* border: solid 2px, black; */
+    border-radius: 5px;
+    background: rgb(80, 80, 80);
+    /* box-shadow: inset 0px 5px 10px -2px rgba(0,0,0,0.58); */
+    /* box-shadow: inset -1px -1px 5px black, inset -1px 1px 5px white; */
+    line-height: 35px;
+    font-size: 20px;
+}
+
+.buttoninputzero {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    float: left;
+    width: 140px;
+    height: 50px;
+    margin: 5px;
+    /* border: solid 2px, black; */
+    border-radius: 5px;
+    text-align: center;
+    line-height: 35px;
+    font-size: 20px;
+    background: rgb(80, 80, 80);
+    /* box-shadow: inset -1px -1px 5px black, inset -1px 1px 5px white; */
+}
+
+#clearbutton {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    float: left;
+    width: 103px;
+    height: 50px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+    /* border: solid 2px, black; */
+    border-radius: 5px;
+    background: rgb(80, 80, 80);
+    /* box-shadow: inset 0px 5px 10px -2px rgba(0,0,0,0.58); */
+    /* box-shadow: inset -1px -1px 5px black, inset -1px 1px 5px white; */
+    line-height: 35px;
+    font-size: 20px;
+}
+
+#reversebutton {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    float: left;
+    width: 103px;
+    height: 50px;
+    margin: 5px 4px 5px 5px;
+    text-align: center;
+    /* border: solid 2px, black; */
+    border-radius: 5px;
+    background: rgb(80, 80, 80);
+    /* box-shadow: inset 0px 5px 10px -2px rgba(0,0,0,0.58); */
+    /* box-shadow: inset -1px -1px 5px black, inset -1px 1px 5px white; */
+    line-height: 35px;
+    font-size: 20px;
+}
+
+/* Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+/* // Medium devices (tablets, 768px and up) */
+/* @media (min-width: 768px) { ... } */
+
+/* // Large devices (desktops, 992px and up) */
+/* @media (min-width: 992px) { ... }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) { ... } */ 
